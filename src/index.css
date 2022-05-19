@@ -1,0 +1,95 @@
+html,
+body {
+  margin: 0;
+  background: linear-gradient(#FFFE9F, #FCA180);
+}
+
+.head {
+  
+  display: flex;
+  padding: 12px;
+  justify-content: space-between;
+}
+
+.coke-studio-logo {
+  border-radius: 50%;
+  width: 80px;
+}
+
+.view-select {
+  margin: auto;
+  margin-right: 5em;
+}
+
+.view-btn {
+  background: transparent;
+  color: red;
+  font-size: 30px;
+  border: 0;
+  cursor: pointer;
+}
+
+.view-heading {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.grid {
+  justify-content: space-around;
+  padding-left: 20px;
+  padding-right: 10px;
+  
+}
+
+.inside-grid {
+  display: inline-block;
+  /* padding-right: 5px; */
+  padding: 20px 5px 0px 0px;
+}
+
+.inside-grid img {
+  width: 300px;
+  height: 200px;
+  /* display: inline-block; */
+}
+
+.inside-list {
+  display: flex;
+  padding: 1em 20em;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
+.list-details {
+  justify-content: left;
+  padding-left: 100px;
+  /* padding-right: 0; */
+  margin: auto 0px auto 0px;
+}
+
+.inside-list img {
+  width: 150px;
+  height: 100px;
+}
+
+.audio-btn {
+  font-size: 1em;
+  margin: 10px;
+}
+
+.music-player {
+  position: fixed;
+  bottom: 0px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  background-color: #1a5d91c1;
+  color: white;
+}
+
+.music-player img {
+  width: 150px;
+  height: 100px;
+}
