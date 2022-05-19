@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coke-studio-api/static/css/main.e0b6e5dd.css",
+    "main.js": "/coke-studio-api/static/js/main.554e4b73.js",
+    "static/js/787.8275e9b2.chunk.js": "/coke-studio-api/static/js/787.8275e9b2.chunk.js",
+    "index.html": "/coke-studio-api/index.html",
+    "main.e0b6e5dd.css.map": "/coke-studio-api/static/css/main.e0b6e5dd.css.map",
+    "main.554e4b73.js.map": "/coke-studio-api/static/js/main.554e4b73.js.map",
+    "787.8275e9b2.chunk.js.map": "/coke-studio-api/static/js/787.8275e9b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b6e5dd.css",
+    "static/js/main.554e4b73.js"
+  ]
+}
